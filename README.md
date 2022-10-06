@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="imagens/gamez.png">
-</h1>
+
 
 [![Generic badge](https://img.shields.io/badge/made%20by-AndreLefon-010101.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/made%20with-python-blue.svg)](https://shields.io/)
