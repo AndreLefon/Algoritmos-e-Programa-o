@@ -7,7 +7,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-orange.svg?style=flat-square)](http://makeapullrequest.com)
 
 <h2 align="center">
-    Projeto README.md
+    Projeto GIT
 </h2>
 
 <br>
