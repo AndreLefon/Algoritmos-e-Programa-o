@@ -15,7 +15,7 @@
 <br>
 
 <h3 align="center">
-    <a href="">Clique aqui para vizualizar a Demonstração</a>
+    <a href="">Feito com carinho e café :) </a>
 </h3>
 
 <br>
@@ -30,7 +30,7 @@
 
 ## ✏️ Sobre
 
-Aqui colocamos a descrição do projeto
+Projeto da matéria GRPSP496 - Análise e Projeto de Software
 
 ---
 
@@ -53,4 +53,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-<h3 align="center">Desenvolvido por Iago Teixeira</h3>
+<h3 align="center">Desenvolvido por André Lefon</h3>
