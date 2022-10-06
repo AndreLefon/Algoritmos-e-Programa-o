@@ -2,7 +2,7 @@
     <img src="imagens/gamez.png">
 </h1>
 
-[![Generic badge](https://img.shields.io/badge/made%20by-iagoit-010101.svg)](https://shields.io/) 
+[![Generic badge](https://img.shields.io/badge/made%20by-AndreLefon-010101.svg)](https://shields.io/) 
 [![Generic badge](https://img.shields.io/badge/made%20with-python-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/license-MIT-7159c1.svg)](https://github.com/iagoit/readme/blob/main/LICENSE) 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
