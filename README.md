@@ -47,7 +47,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/iagoit/readme
+    $ git clone https://github.com/AndreLefon/exAPS
 
 ```
 
